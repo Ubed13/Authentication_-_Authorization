@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Role_Base_Authentication_JWT.props" />
+</Project>

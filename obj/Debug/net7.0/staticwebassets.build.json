@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4ZKWkx3a+Z+RpVSkic5dSS5Yd9W3sWUcEThvAOxOZeA=",
+  "Source": "Role_Base_Authentication_JWT",
+  "BasePath": "_content/Role_Base_Authentication_JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
